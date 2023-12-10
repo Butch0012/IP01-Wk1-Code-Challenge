@@ -40,3 +40,7 @@ Discover the highest value of consonant substrings in a word using our fantastic
 
 Excited to add more challenges or improve our solutions? Your contributions are welcome! Create a "Pull Request" to share your awesome ideas.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
