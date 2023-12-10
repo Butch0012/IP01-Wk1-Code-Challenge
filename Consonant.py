@@ -9,3 +9,5 @@ def solve(word):
         consonant_values.append(sum(values))
         # Find the highest value in the list and return it
     return max(consonant_values)
+#Expected output 26
+result1 = solve("zodiacs")  
