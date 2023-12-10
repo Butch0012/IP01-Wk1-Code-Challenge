@@ -11,3 +11,5 @@ def solve(word):
     return max(consonant_values)
 #Expected output 26
 result1 = solve("zodiacs")  
+# Display the results
+print("Result 1:", result1)
