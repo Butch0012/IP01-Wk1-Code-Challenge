@@ -8,3 +8,6 @@ def convert_to_24_hour(hour, minute, period):
         hour += 12
     # Formating the time to a four-digit string with leading zeros
     return f"{hour:02d}{minute:02d}"
+# Example usage:
+result1 = convert_to_24_hour(8, 30, "am")
+print("Converted time :", result1)
