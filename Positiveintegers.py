@@ -1,0 +1,1 @@
+def two_positive_numbers(a, b, c):
