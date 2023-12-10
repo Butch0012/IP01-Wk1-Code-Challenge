@@ -36,3 +36,7 @@ Discover the highest value of consonant substrings in a word using our fantastic
 2. Open the relevant challenge file in your code editor.
 3. Run the script and see the outcomes.
 
+## Contributions
+
+Excited to add more challenges or improve our solutions? Your contributions are welcome! Create a "Pull Request" to share your awesome ideas.
+
