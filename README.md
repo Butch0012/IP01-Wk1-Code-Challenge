@@ -21,3 +21,11 @@ Can you figure out if exactly two out of three numbers are positive? Our `two_po
 2. Explore the example given.
 3. Run the script and see the results!
 
+### Challenge 3: Consonant Value Explorer 🌟
+
+Discover the highest value of consonant substrings in a word using our fantastic `solve` function!
+
+**How to Use:**
+1. Open `Consonant.py` in your code editor.
+2. Dive into the example provided.
+3. Run the script and reveal the highest consonant value!
