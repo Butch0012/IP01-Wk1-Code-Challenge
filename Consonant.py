@@ -5,3 +5,7 @@ def solve(word):
     for substring in word.split('aeiou'):
         # Initializing a list to store individual character values
         values = [ord(char) - ord('a') + 1 for char in substring]
+        # Add the sum of values to the list
+        consonant_values.append(sum(values))
+        # Find the highest value in the list and return it
+    return max(consonant_values)
