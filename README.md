@@ -29,3 +29,10 @@ Discover the highest value of consonant substrings in a word using our fantastic
 1. Open `Consonant.py` in your code editor.
 2. Dive into the example provided.
 3. Run the script and reveal the highest consonant value!
+
+## Running the Challenges
+
+1. Make sure you have Python installed on your computer.
+2. Open the relevant challenge file in your code editor.
+3. Run the script and see the outcomes.
+
